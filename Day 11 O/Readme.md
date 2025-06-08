@@ -66,20 +66,20 @@ LibraryManagementSystem/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
-   cd LibraryManagementSystem
+   git clone https://github.com/dixit-raj/Accolite-Training.git
+   cd Day 11 O
    ```
 
 2. **Compile the Code**
 
    ```bash
-   javac Main.java model/*.java service/*.java exception/*.java
+   javac MainL.java MainLib/*.java Services/*.java Exception/*.java
    ```
 
 3. **Run the Program**
 
    ```bash
-   java Main
+   java MainL
    ```
 
 ---
