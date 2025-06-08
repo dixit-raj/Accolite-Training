@@ -1,7 +1,3 @@
-Certainly! Here's an extended and more descriptive version of the `README.md` to give a better understanding of your **Library Management System** project:
-
----
-
 # 📚 Library Management System
 
 This is a **console-based Java application** that simulates the operations of a real-world library. It allows you to manage books, members, and lending activities in a structured and user-friendly way. Built using **OOP principles**, **Java Collections**, and **custom exception handling**, this system is ideal for educational purposes or as a base for a more advanced library management tool.
@@ -120,16 +116,4 @@ Overdue: Clean Code by Alice Johnson
 
 ---
 
-## 🧾 License
-
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute.
-
----
-
-Let me know if you’d like:
-
-* A PDF version of this `README`
-* An official GitHub repository structure
-* Screenshots or a demo video outline
-* An assignment submission format for college
 
